@@ -5,6 +5,12 @@
 			"author" : "Tom Wellington",
 			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/Cardboard%20Clouds.png",
 			"name": "Cardboard Clouds"
+		},
+		
+		{
+			"author": "Tom Wellington",
+			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/LA.jpg",
+			"name" : "LA"
 		}
 	]
 }
