@@ -16,6 +16,18 @@
 			"author": "Ty McNulty",
 			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/Purple%20Abyss.jpg",
 			"name": "Purple Abyss"
+		},
+		
+		{
+			"author": "Mother Earth",
+			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/Milwaukee.jpg",
+			"name": "Calatrava"
+		},
+		
+		{
+			"author": "Mother Earth",
+			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/London.jpg",
+			"name": "London"
 		}
 	]
 }
