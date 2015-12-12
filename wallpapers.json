@@ -28,6 +28,12 @@
 			"author": "Mother Earth",
 			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/London.jpg",
 			"name": "London"
+		},
+		
+		{
+			"author": "Mother Earth",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Rio.jpg",
+			"name": "Rio"
 		}
 	]
 }
