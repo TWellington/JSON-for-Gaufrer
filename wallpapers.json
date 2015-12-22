@@ -21,7 +21,11 @@
 			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/Purple%20Abyss.jpg",
 			"name": "Purple Abyss"
 		},
-		
+		{
+			"author": "Ty McNulty",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Complex.jpeg",
+			"name": "Complex"
+		},
 		{
 			"author": "Mother Earth",
 			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/Milwaukee.jpg",
@@ -38,6 +42,27 @@
 			"author": "Mother Earth",
 			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Rio.jpg",
 			"name": "Rio"
+		},
+		
+		{
+			"author": "Ty McNulty",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Puzzle.jpeg",
+			"name": "Puzzle"
+		},
+		{
+			"author": "Ty McNulty",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Seashore.jpg",
+			"name": "Seashore"
+		},
+		{
+			"author": "Ty McNulty",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Lightpost.jpeg",
+			"name": "Lightpost"
+		},
+		{
+			"author": "Ty McNulty",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Blurred.jpeg",
+			"name": "Blurred"
 		}
 	]
 }
