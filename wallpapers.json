@@ -27,6 +27,11 @@
 			"name": "Complex"
 		},
 		{
+			"author": "Aidan Follestad",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Skyline.jpg",
+			"name": "Skyline"
+		},
+		{
 			"author": "Tom Wellington",
 			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Squares.jpg",
 			"name": "Square Buildings"
@@ -68,6 +73,16 @@
 			"author": "Ty McNulty",
 			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Blurred.jpeg",
 			"name": "Blurred"
+		},
+		{
+			"author": "Aidan Follestad",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Bridge%20(The%20Gap).jpg",
+			"name": "Bridge (The Gap)"
+		},
+		{
+			"author": "Aidan Follestad",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Icey.jpg",
+			"name": "Icey"
 		},
 		{
 			"author": "Tom Wellington",
