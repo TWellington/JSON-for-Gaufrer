@@ -32,16 +32,15 @@
 			"name": "Skyline"
 		},
 		{
-			"author": "Tom Wellington",
-			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Squares.jpg",
-			"name": "Square Buildings"
-		},
-		{
 			"author": "Mother Earth",
 			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/Milwaukee.jpg",
 			"name": "Calatrava"
 		},
-		
+		{
+			"author": "Tom Wellington",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Squares.jpg",
+			"name": "Square Buildings"
+		},
 		{
 			"author": "Mother Earth",
 			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/London.jpg",
@@ -93,6 +92,11 @@
 			"author": "Tom Wellington",
 			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Bayside%20(far%20out).jpg",
 			"name": "Bayside"
+		},
+		{
+			"author": "Tom Wellington",
+			"url": "",
+			"name": ""
 		}
 	]
 }
