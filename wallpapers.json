@@ -95,8 +95,13 @@
 		},
 		{
 			"author": "Tom Wellington",
-			"url": "",
-			"name": ""
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Crash.jpg",
+			"name": "Crash"
+		},
+		{
+			"author": "Tom Wellington",
+			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Colonial.jpg",
+			"name": "Colonial"
 		}
 	]
 }
