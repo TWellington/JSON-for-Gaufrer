@@ -18,13 +18,8 @@
 		},
 		{
 			"author": "Ty McNulty",
-			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/Purple%20Abyss.jpg",
-			"name": "Purple Abyss"
-		},
-		{
-			"author": "Ty McNulty",
-			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Complex.jpeg",
-			"name": "Complex"
+			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/smooth.jpg",
+			"name": "Smooth"
 		},
 		{
 			"author": "Aidan Follestad",
@@ -52,7 +47,11 @@
 			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Rio.jpg",
 			"name": "Rio"
 		},
-		
+		{
+			"author": "Ty McNulty",
+			"url": "https://raw.githubusercontent.com/TWellington/JSON-for-Gaufrer/master/the_set.jpg",
+			"name": "The Set"
+		},
 		{
 			"author": "Ty McNulty",
 			"url": "https://github.com/TWellington/JSON-for-Gaufrer/raw/master/Puzzle.jpeg",
